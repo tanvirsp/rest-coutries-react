@@ -1,0 +1,25 @@
+.country-detail {
+    width: 900px;
+    background-color: #f7f7f7;
+    margin: 55px auto;
+    padding: 35px;
+    border-radius: 10px;
+    border-bottom: 1px solid gray;
+}
+
+
+.country-detail table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 55px;
+    text-align: start;
+}
+.country-detail table td, tr {
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.country-detail img {
+    width: 400px;
+    margin-top: 35px;
+}
